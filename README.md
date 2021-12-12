@@ -1,8 +1,6 @@
 # CapstoneDesign
 > Project Name: None
->> Team Member: 김국현, 김민기, 이명진, 이선호, 조장훈
-
->> 담당 부분: 중앙 맵, 탈출 맵
+>> Team Member: 김국현, 김민기, 이명진, 이선호, 조장훈 <br> 담당 부분: 중앙 맵, 탈출 맵
 
 탈출 게임을 기반으로 하여 다양한 게임 요소를 통합한 게임
 
