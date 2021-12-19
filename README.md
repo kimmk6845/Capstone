@@ -40,10 +40,10 @@
 
 ![메인화면](https://user-images.githubusercontent.com/71704350/145704590-15f9a1d1-d67a-4ce1-bbdd-7f533109a6e0.PNG)
 
-탈출맵1
+탈출맵-Level 1
 ![인게임1](https://user-images.githubusercontent.com/71704350/145704602-1ea1d723-feea-4f43-91d1-64c25a8c1b3a.PNG)
 
-탈출맵2
+탈출맵-Level 2
 ![인게임2](https://user-images.githubusercontent.com/71704350/145704648-52a361e7-6622-446a-819f-6cd9062ae3ce.PNG)
 
 
